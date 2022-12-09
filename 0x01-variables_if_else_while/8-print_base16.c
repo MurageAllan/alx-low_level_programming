@@ -1,11 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-/*
- *Description: main - prints all the numbers of base 16 in lowercase
- *
- * Return: Always 0 (Success)
-*/
+/**
+ * Description: main - Prints out a string to stdout.
+ * Return: 0 if success.
+ */
 
 int main(void)
 {
